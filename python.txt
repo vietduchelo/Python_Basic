@@ -1,0 +1,2 @@
+Hello. My name is Khoa.
+I'm from Viet Nam and newbie about Python in Tassell
